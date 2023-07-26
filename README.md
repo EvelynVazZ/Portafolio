@@ -10,6 +10,9 @@ Incluye una descripción de su motivacion, experiencia, proyectos, articulos pub
 
 Tambien contienen una sección de almacenamiento de archivos *(imagenes)* que nos permiten modificar ka imagen de perfil del desarrollador y contiene una animación desarrollada con JavaScript.
 
+![image](https://github.com/EvelynVazZ/Portafolio/assets/140433810/d876f6c4-b403-4187-9bf8-4e9ff0039913)
+
+
 ## Tecnolochicas
 
 Esta página fue creada con:
